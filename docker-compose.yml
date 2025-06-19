@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  rag-assistant:
+    build: .
+    container_name: rag-faq-assistant
+    volumes:
+      - ./raw_docs:/app/raw_docs
+      - ./vector_store:/app/vector_store
+      - ./templates:/app/templates
+    environment:
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "5001:5001"  # For Flask web interface
+    # For embedding creation
+    # command: python create_embeddings.py
+    
+    # For interactive command-line mode
+    # command: python query_assistant.py
+    
+    # For FastAPI web interface (alternative to Flask)
+    # command: python web_app.py
+    
+    # Create a .env file and uncomment this to load environment variables
+    # env_file:
+    #   - .env

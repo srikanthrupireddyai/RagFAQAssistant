@@ -2,9 +2,17 @@ beautifulsoup4
 trafilatura
 langchain
 langchain-community
-langchain-openai
-tqdm
-faiss-cpu
-openai
-python-dotenv
+langchain>=0.0.200
+faiss-cpu>=1.7.4
+scikit-learn>=1.0.2
+numpy>=1.22.4
+pandas>=1.4.3
+python-dotenv>=0.20.0
+tqdm>=4.64.0
+fastapi>=0.95.0
+uvicorn>=0.21.0
+pydantic>=1.10.7
+jinja2>=3.1.2
+pytest>=7.3.1
+# openai>=0.27.0
 tiktoken

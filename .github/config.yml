@@ -1,0 +1,24 @@
+# Configuration for new-issue-welcome - https://github.com/apps/new-issue-welcome
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here! Be sure to follow the issue template!
+
+# Configuration for new-pr-welcome - https://github.com/apps/new-pr-welcome
+newPRWelcomeComment: >
+  Thanks for opening this pull request! Please check out our contributing guidelines.
+
+# Configuration for first-pr-merge - https://github.com/apps/first-pr-merge
+firstPRMergeComment: >
+  Congratulations on your first merged pull request!
+
+# Suggested GitHub repository topics
+topics:
+  - rag
+  - vector-search
+  - faiss
+  - embeddings
+  - nlp
+  - document-retrieval
+  - tfidf
+  - question-answering
+  - semantic-search
+  - information-retrieval
