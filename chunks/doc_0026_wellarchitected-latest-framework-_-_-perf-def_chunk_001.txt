@@ -1,0 +1,1 @@
+Reviewing your choices on a regular basis validates that you are taking advantage of the continually evolving AWS Cloud. Monitoring verifies that you are aware of any deviance from expected performance. Make trade-oï¬s in your architecture to improve performance, such as using compression or caching, or relaxing consistency requirements.

@@ -1,0 +1,10 @@
+Security
+-
+Reliability
+-
+Performance Efficiency
+-
+Cost Optimization
+-
+Sustainability
+This paper focuses on the security pillar. This will help you meet your business and regulatory requirements by following current AWS recommendations. Itâs intended for those in technology roles, such as chief technology officers (CTOs), chief information security officers (CSOs/CISOs), architects, developers, and operations team members.

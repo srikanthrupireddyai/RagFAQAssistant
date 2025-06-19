@@ -1,0 +1,16 @@
+Security Pillar - AWS Well-Architected Framework
+Publication date: November 6, 2024 (Document revisions)
+The focus of this paper is the security pillar of the AWS Well-Architected Framework. It provides guidance to help you apply best practices, current recommendations in the design, delivery, and maintenance of secure AWS workloads.
+Introduction
+The AWS Well-Architected
+Framework
+The framework is based on six pillars:
+-
+Operational Excellence
+-
+Security
+-
+Reliability
+-
+Performance Efficiency
+-

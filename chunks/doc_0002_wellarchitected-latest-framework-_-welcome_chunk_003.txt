@@ -1,0 +1,1 @@
+AWS Solutions Architects have years of experience architecting solutions across a wide variety of business verticals and use cases. We have helped design and review thousands of customersâ architectures on AWS. From this experience, we have identified best practices and core strategies for architecting systems in the cloud.

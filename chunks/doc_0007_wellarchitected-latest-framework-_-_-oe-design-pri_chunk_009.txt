@@ -1,0 +1,4 @@
+-
+Learn from all operational events and metrics: Drive improvement through lessons learned from all operational events and failures. Share what is learned across teams and through the entire organization. Learnings should highlight data and anecdotes on how operations contribute to business outcomes.
+-
+Use managed services: Reduce operational burden by using AWS managed services where possible. Build operational procedures around interactions with those services.

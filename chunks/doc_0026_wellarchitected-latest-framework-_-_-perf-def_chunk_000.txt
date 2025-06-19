@@ -1,0 +1,13 @@
+Definition
+There are five best practice areas for performance efficiency in the cloud:
+-
+Architecture selection
+-
+Compute and hardware
+-
+Data management
+-
+Networking and content delivery
+-
+Process and culture
+Take a data-driven approach to building a high-performance architecture. Gather data on all aspects of the architecture, from the high-level design to the selection and configuration of resource types.

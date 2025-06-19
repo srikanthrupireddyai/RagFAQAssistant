@@ -1,0 +1,10 @@
+Definition
+There are four best practice areas for reliability in the cloud:
+-
+Foundations
+-
+Workload architecture
+-
+Change management
+-
+Failure management

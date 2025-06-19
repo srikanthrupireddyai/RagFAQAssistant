@@ -1,0 +1,12 @@
+Definition
+There are five best practice areas for cost optimization in the cloud:
+-
+Practice Cloud Financial Management
+-
+Expenditure and usage awareness
+-
+Cost-effective resources
+-
+Manage demand and supply resources
+-
+Optimize over time

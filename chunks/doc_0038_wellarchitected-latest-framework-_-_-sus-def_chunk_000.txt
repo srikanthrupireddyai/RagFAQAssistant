@@ -1,0 +1,14 @@
+Definition
+There are six best practice areas for sustainability in the cloud:
+-
+Region selection
+-
+Alignment to demand
+-
+Software and architecture
+-
+Data
+-
+Hardware and services
+-
+Process and culture

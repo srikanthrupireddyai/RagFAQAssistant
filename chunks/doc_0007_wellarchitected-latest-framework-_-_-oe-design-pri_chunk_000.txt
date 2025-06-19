@@ -1,0 +1,3 @@
+Design principles
+The following are design principles for operational excellence in the cloud:
+-

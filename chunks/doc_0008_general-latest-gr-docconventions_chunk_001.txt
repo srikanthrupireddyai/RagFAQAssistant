@@ -1,0 +1,11 @@
+For more information, see the following resources:
+AWS security credentials in the IAM User Guide
+AWS security audit guidelines in the IAM User Guide
+AWS IP address ranges
+AWS publishes its current IP address ranges in JSON format. You can download
+a .json
+file to view current ranges.
+The IP address ranges that you bring to AWS through bring your own IP addresses (BYOIP)
+are not included in the .json
+file.
+For more information, see the following resources:

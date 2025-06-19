@@ -1,0 +1,16 @@
+Definition
+There are seven best practice areas for security in the cloud:
+-
+Security foundations
+-
+Identity and access management
+-
+Detection
+-
+Infrastructure protection
+-
+Data protection
+-
+Incident response
+-
+Application security

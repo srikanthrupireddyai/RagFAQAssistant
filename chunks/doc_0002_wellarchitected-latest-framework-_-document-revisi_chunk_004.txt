@@ -1,0 +1,2 @@
+Major update | Review and rewrite of most questions and answers. | July 8, 2020 |
+Whitepaper updated | Addition of AWS Well-Architected Tool, links to AWS Well-Architected Labs, and AWS Well-Architected Partners, minor fixes to enable multiple language version of framework. | July 1, 2019 |

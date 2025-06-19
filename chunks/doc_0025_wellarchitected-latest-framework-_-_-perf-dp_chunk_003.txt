@@ -1,0 +1,3 @@
+-
+Go global in minutes: Deploying your workload in multiple AWS Regions around the world permits you to provide lower latency and a better experience for your customers at minimal cost.
+-

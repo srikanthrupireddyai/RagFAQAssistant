@@ -1,0 +1,3 @@
+Design principles
+There are five design principles for cost optimization in the cloud:
+-

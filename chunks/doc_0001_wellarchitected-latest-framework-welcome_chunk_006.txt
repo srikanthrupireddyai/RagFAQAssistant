@@ -1,0 +1,8 @@
+This framework is intended for those in technology roles, such as chief technology
+officers (CTOs), architects, developers, and operations team members. It describes AWS best
+practices and strategies to use when designing and operating a cloud workload, and provides
+links to further implementation details and architectural patterns. For more information, see
+the AWS
+Well-Architected homepage
+AWS also provides a service for reviewing your workloads at no charge. The AWS Well-Architected
+Tool

@@ -1,0 +1,9 @@
+AWS IP address ranges in the Amazon VPC User Guide
+AWS services that support IPv6 in the Amazon VPC User Guide
+AWS APIs
+The following pages provide information that is useful when using an AWS API:
+Retry behavior in the AWS SDKs and Tools Reference Guide
+Signing AWS API requests in the IAM User Guide
+AWS services endpoints and quotas
+You can learn about the endpoints and service quotas in the following pages:
+Specifying which AWS Regions your account can use in the AWS Account Management Guide

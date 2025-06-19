@@ -1,0 +1,2 @@
+-
+Reduce the downstream impact of your cloud workloads: Reduce the amount of energy or resources required to use your services. Reduce the need for customers to upgrade their devices to use your services. Test using device farms to understand expected impact and test with customers to understand the actual impact from using your services.

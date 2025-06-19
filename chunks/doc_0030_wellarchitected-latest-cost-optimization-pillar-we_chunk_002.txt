@@ -1,0 +1,13 @@
+-
+Operational Excellence
+-
+Security
+-
+Reliability
+-
+Performance Efficiency
+-
+Cost Optimization
+-
+Sustainability
+This paper focuses on the cost optimization pillar, and how to architect workloads with the most effective use of services and resources, to achieve business outcomes at the lowest price point.

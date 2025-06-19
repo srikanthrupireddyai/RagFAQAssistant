@@ -1,0 +1,5 @@
+Design principles
+In the cloud, there are a number of principles that can help you strengthen your workload security:
+-
+Implement a strong identity foundation: Implement the principle of least privilege and enforce separation of duties with appropriate authorization for each interaction with your AWS resources. Centralize identity management, and aim to eliminate reliance on long-term static credentials.
+-

@@ -1,0 +1,56 @@
+# Environment variables
+.env
+
+# AWS Documentation - DO NOT COMMIT THESE FILES
+raw_docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Large vector stores and model files
+faiss_index/
+*.pkl
+*.bin
+*.vec
+*.model
+
+# Logs
+*.log
+*.out
+
+# OS specific
+.DS_Store
+Thumbs.db

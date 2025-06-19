@@ -1,0 +1,1 @@
+This paper is intended for those in technology roles, such as chief technology officers (CTOs), architects, developers, and operations team members. After reading this paper, youâll understand AWS best practices and strategies to use when designing a performant cloud architecture.

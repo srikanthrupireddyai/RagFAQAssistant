@@ -1,0 +1,14 @@
+Resources
+Refer to the following resources to learn more about our best practices for Performance Efficiency.
+Documentation
+Whitepaper
+Video
+-
+AWS re:Invent 2019: Leadership session: Storage state of the union (STG201-L)
+-
+AWS re:Invent 2019: Leadership session: AWS purpose-built databases (DAT209-L)
+-
+AWS re:Invent 2019: Connectivity to AWS and hybrid AWS network architectures (NET317-R1)
+-
+AWS re:Invent 2019: Powering next-gen Amazon EC2: Deep dive into the Nitro system (CMP303-R2)
+-

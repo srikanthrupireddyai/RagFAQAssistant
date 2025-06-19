@@ -1,0 +1,7 @@
+-
+Cost effective resources
+-
+Manage demand and supply resources
+-
+Optimize over time
+This paper is intended for those in technology and finance roles, such as chief technology officers (CTOs), chief financial officers (CFOs), architects, developers, financial controllers, financial planners, business analysts, and operations team members. This paper does not provide implementation details or architectural patterns, however, it does include references to appropriate resources.

@@ -1,0 +1,5 @@
+Minor updates | Updated the Appendix with current Amazon CloudWatch Logs information. | November 1, 2015 |
+Initial publication | AWS Well-Architected Framework published. | October 1, 2015 |
+Note
+To subscribe to RSS updates, you must have an RSS plugin enabled for the browser that you are using.
+Framework versions:

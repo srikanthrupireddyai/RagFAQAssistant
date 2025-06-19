@@ -1,0 +1,15 @@
+Performance Efficiency Pillar - AWS Well-Architected Framework
+Publication date: November 6, 2024 (Document revisions)
+This whitepaper focuses on the performance efficiency pillar of the AWS Well-Architected Framework. It provides guidance to help customers apply best practices in the design, delivery, and maintenance of AWS environments.
+Introduction
+The
+AWS
+Well-Architected Framework
+The framework is based on six pillars:
+-
+Operational Excellence
+-
+Security
+-
+Reliability
+-

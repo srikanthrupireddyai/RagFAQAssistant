@@ -1,0 +1,2 @@
+Whitepaper updated | Operational Excellence moved to front of pillars and rewritten so it frames other pillars. Refreshed other pillars to reflect evolution of AWS. | November 1, 2017 |
+Whitepaper updated | Updated the Framework to include operational excellence pillar, and revised and updated the other pillars to reduce duplication and incorporate learnings from carrying out reviews with thousands of customers. | November 1, 2016 |

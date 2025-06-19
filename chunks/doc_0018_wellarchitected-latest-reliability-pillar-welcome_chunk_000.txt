@@ -1,0 +1,22 @@
+Reliability Pillar - AWS Well-Architected Framework
+Publication date: November 6, 2024 (Document revisions)
+The focus of this paper is the reliability pillar of the
+AWS
+Well-Architected Framework
+Introduction
+The
+AWS
+Well-Architected Framework
+The AWS Well-Architected Framework is based on six pillars:
+-
+Operational Excellence
+-
+Security
+-
+Reliability
+-
+Performance Efficiency
+-
+Cost Optimization
+-
+Sustainability

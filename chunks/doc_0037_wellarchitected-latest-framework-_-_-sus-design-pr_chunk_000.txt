@@ -1,0 +1,3 @@
+Design principles
+There are six design principles for sustainability in the cloud:
+-

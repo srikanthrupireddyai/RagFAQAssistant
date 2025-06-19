@@ -1,0 +1,1 @@
+still limits, but some quotas can be controlled and others can be managed (see Manage Service Quotas and Constraints).

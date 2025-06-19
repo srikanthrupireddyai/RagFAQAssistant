@@ -1,0 +1,2 @@
+-
+Manage change through automation: Changes to your infrastructure should be made using automation. The changes that must be managed include changes to the automation, which then can be tracked and reviewed.

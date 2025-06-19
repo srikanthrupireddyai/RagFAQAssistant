@@ -1,0 +1,1 @@
+for building performance efficient cloud solutions on AWS. These focus areas are:

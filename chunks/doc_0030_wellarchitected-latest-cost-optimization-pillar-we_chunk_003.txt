@@ -1,0 +1,8 @@
+Youâll learn how to apply the best practices of the cost optimization pillar within your organization. Cost optimization can be challenging in traditional on-premises solutions because you must predict future capacity and business needs while navigating complex procurement processes. Adopting the practices in this paper will help your organization achieve the following goals:
+-
+Practice Cloud Financial Management
+-
+Expenditure and usage awareness
+-
+Cost effective resources
+-

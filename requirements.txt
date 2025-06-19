@@ -1,0 +1,10 @@
+beautifulsoup4
+trafilatura
+langchain
+langchain-community
+langchain-openai
+tqdm
+faiss-cpu
+openai
+python-dotenv
+tiktoken

@@ -1,0 +1,8 @@
+A cost-optimized workload fully utilizes all resources, achieves an outcome at the lowest possible price point, and meets your functional requirements. This whitepaper provides in-depth guidance for building capability within your organization, designing your workload, selecting your services, configuring and operating the services, and applying cost optimization techniques.
+Introduction
+The AWS
+Well-Architected Framework
+The framework is based on six pillars:
+-
+Operational Excellence
+-

@@ -1,0 +1,2 @@
+Whitepaper updated | Review and rewrite of most questions and answers, to ensure questions focus on one topic at a time. This caused some previous questions to be split into multiple questions. Added common terms to definitions (workload, component etc). Changed presentation of question in main body to include descriptive text. | November 1, 2018 |
+Whitepaper updated | Updates to simplify question text, standardize answers, and improve readability. | June 1, 2018 |

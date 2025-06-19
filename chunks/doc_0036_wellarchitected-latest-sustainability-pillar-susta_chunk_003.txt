@@ -1,0 +1,14 @@
+The Framework is based on six pillars:
+-
+Operational excellence
+-
+Security
+-
+Reliability
+-
+Performance efficiency
+-
+Cost optimization
+-
+Sustainability
+This document focuses on the sustainability pillar, and within the scope of sustainability, it focuses on environmental sustainability. Itâs intended for those in technology roles, such as chief technology officers (CTOs), architects, developers, and operations team members.

@@ -1,0 +1,3 @@
+-
+Anticipate failure: Maximize operational success by driving failure scenarios to understand the workloadâs risk profile and its impact on your business outcomes. Test the effectiveness of your procedures and your teamâs response against these simulated failures. Make informed decisions to manage open risks that are identified by your testing.
+-

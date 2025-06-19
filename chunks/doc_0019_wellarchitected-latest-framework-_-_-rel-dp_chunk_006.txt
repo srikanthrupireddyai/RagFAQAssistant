@@ -1,0 +1,3 @@
+-
+Scale horizontally to increase aggregate workload availability: Replace one large resource with multiple small resources to reduce the impact of a single failure on the overall workload. Distribute requests across multiple, smaller resources to verify that they donât share a common point of failure.
+-

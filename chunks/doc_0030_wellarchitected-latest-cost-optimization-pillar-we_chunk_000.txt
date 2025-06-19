@@ -1,0 +1,4 @@
+Cost Optimization Pillar - AWS Well-Architected Framework
+Publication date: June 27, 2024 (Document revisions)
+Abstract
+This whitepaper focuses on the cost optimization pillar of the Amazon Web Services (AWS) Well-Architected Framework. It provides guidance to help customers apply best practices in the design, delivery, and maintenance of AWS environments.
